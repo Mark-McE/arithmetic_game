@@ -4,7 +4,8 @@ This is an interactive game that teaches 5 to 7 year olds how to add,
 subtract, multiply and divide positive integers.
 
 The game supports tailored learning by dynamically adapting its questions
-according to the child’s ability to learn as follows:
+according to the child’s ability to learn as follows:  
+
 • If the child answers three consecutive questions correctly, the game
   moves up a level and starts monitoring the child’s answers afresh.
   If the game is already at the highest level, the level remains unchanged.
